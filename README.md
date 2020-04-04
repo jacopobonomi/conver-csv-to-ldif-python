@@ -1,4 +1,4 @@
-# Conver .csv to .ldif with a easy script
+# Conver .csv to .ldif with a easy python script
 Installation:  
 1. `git clone https://github.com/jacopobonomi/conver-csv-to-ldif-python`
 1. `pip install ldap3`
